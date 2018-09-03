@@ -1,0 +1,17 @@
+"AddonInfo"
+
+{
+	
+"name"            "Jaiden's Rainbow Gun"
+	
+"version"         "2.00"
+	
+"up_date"         "00/00/00"
+	
+"author_name"     "JaidenDestroyer"
+	
+"author_email"    "N/A"
+	
+"author_url"      "N/A"
+
+}
